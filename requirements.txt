@@ -33,7 +33,7 @@ more-itertools==4.3.0
 nbconvert==5.4.0
 nbformat==4.4.0
 networkx==2.2
-notebook==5.7.8
+notebook==6.1.5
 numba==0.43.1
 numpy==1.15.2
 olympic==0.1.5
